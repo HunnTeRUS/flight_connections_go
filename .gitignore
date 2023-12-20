@@ -1,0 +1,17 @@
+.idea
+.vscode
+*.exe
+samconfig.toml
+.aws-sam
+*.zip
+package
+*.txt
+
+.DS_Store
+Thumbs.db
+
+/bin/
+/build/
+/dist/
+
+.aws-sam/
